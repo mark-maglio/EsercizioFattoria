@@ -8,4 +8,4 @@ namespace ClassiFattoria
     {
         public abstract string Vola();
     }
-}
+} 
